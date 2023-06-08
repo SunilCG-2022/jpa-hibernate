@@ -1,0 +1,6 @@
+insert into course(id, name, author)
+values(1, 'AWS CCP', 'Sunil')
+
+SELECT * FROM COURSE
+
+DELETE FROM COURSE WHERE ID = 1
